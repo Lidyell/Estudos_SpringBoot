@@ -1,0 +1,10 @@
+
+PUT http://localhost:8080/add/2
+Content-Type: application/json
+
+{
+  "nome": "PUT_teste",
+  "email": "testando@gmail.com",
+  "password": "teste1"
+}
+
