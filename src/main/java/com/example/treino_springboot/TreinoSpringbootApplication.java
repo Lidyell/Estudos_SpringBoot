@@ -8,6 +8,5 @@ public class TreinoSpringbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TreinoSpringbootApplication.class, args);
-	}
-
+	};
 }

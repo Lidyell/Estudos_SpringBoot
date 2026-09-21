@@ -2,10 +2,9 @@ spring:
   application:
     name: treinando_spring
   datasource:
-    url: XXXXXXXXXXXXXXXXXXXXXXXXX
+    url: 
     username: postgres
-    password: XXXXXXXXXXXXXXXXXXXXXXx
-
+    password: 
   jpa:
     hibernate:
       ddl-auto: update
